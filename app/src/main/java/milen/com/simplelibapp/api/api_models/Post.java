@@ -1,4 +1,4 @@
-package milen.com.simplelibapp;
+package milen.com.simplelibapp.api.api_models;
 
 import com.google.gson.annotations.SerializedName;
 

@@ -1,4 +1,4 @@
-package milen.com.simplelibapp;
+package milen.com.simplelibapp.ui.adapters;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -11,6 +11,8 @@ import java.util.List;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
+import milen.com.simplelibapp.R;
+import milen.com.simplelibapp.api.api_models.Post;
 
 public class PostAdapter extends ArrayAdapter<Post> {
     private int resource;

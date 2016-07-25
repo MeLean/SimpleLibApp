@@ -1,4 +1,4 @@
-package milen.com.simplelibapp;
+package milen.com.simplelibapp.utils;
 
 
 public class Preferences {
